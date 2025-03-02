@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<g id="Change_colour">
+	<rect x="222.7" y="230.1" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<rect x="145.3" y="307.6" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<rect x="222.7" y="385.1" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<rect x="222.7" y="307.6" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<rect x="300.1" y="307.6" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<rect x="300.1" y="385.1" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<rect x="145.3" y="385.1" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+	<path style="fill: rgb(31, 107, 239);" d="M145.3,150.2v2.4h0V225h72.4v-72.4h77.6v77.2h77.4v77.5l77.2,0.3v77.5h-72.4v72.4l77.2,0V147.8&#10;&#9;&#9;H145.3V150.2z M377.5,152.6h72.4V225h-72.4V152.6z M377.5,230.1h72.4v72.4h-72.4V230.1z M300.1,152.6h72.4V225h-72.4V152.6z"/>
+	<rect x="145.3" y="230.1" style="fill: rgb(31, 107, 239);" width="72.4" height="72.4"/>
+</g>
+<g id="Foreground">
+</g>
+</svg>
